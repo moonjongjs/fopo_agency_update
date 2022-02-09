@@ -1,0 +1,480 @@
+사이트 분석 
+url - https://pofo.themezaa.com/home-classic-interactive-agency/
+
+콘텐츠 영역 : 1170px (좌우 여백 : 0 15px 포함) => 1140px
+전체 각 섹션별 페럴럭스 기능을 모두 구현한다.
+
+
+
+헤더
+width:100%;
+height:60px;
+콘텐츠 영역 1170px
+좌측 : 로고 : 105*26px
+중간우측 : 메인메뉴   : 좌우 여백 20px;
+폰트 : Montserrat
+폰트사이즈 :12
+굵기 : 600
+컬러 : #232323
+서브메뉴 : #9d9d9d;
+우측 : 아이콘 사이드메뉴 : 너비 146px
+
+좌측박스 : 105
+우측박스 : 1140-105=1035 
+
+sub1 ----------------------------------
+.new-deco : #ff214f
+
+CLASSIC HOMEPAGES
+Classic Corporate
+Classic Digital Agency
+Classic Innovation Agency
+Classic Web Agency
+Classic One Page
+Classic Start Up
+Classic Interactive Agency
+Classic Business
+Classic Shop
+
+CREATIVE HOMEPAGES
+Creative Studio
+Creative Business
+Creative Simple Portfolio
+Creative Branding Agency
+Creative Minimalist Portfolio
+Creative Small Business
+Creative Designer
+Creative Agency
+
+
+PORTFOLIO HOMEPAGES
+Portfolio Minimal
+Portfolio Multiple Carousel
+Portfolio Centered Slides
+Portfolio Personal
+Portfolio Metro
+Portfolio Full Screen – Vertical
+Portfolio Photographer
+Portfolio Parallax
+
+BLOG HOMEPAGES
+Blog Grid
+Blog Masonry
+Blog Clean
+Blog Personal
+
+sub2-------------------------
+About
+Services
+Contact
+Team
+Addition Pages
+
+sub-sub
+
+    sub2-1
+    About Us Simple
+    About Us Classic
+    About Us Modern
+    About Me
+
+    sub2-2
+    Services Simple
+    Services Classic
+    Services Modern
+
+    sub2-3
+    Contact Simple
+    Contact Classic
+    Contact Classic – Style 02
+    Contact Modern
+
+    sub2-4
+    Team Simple
+    Team Classic
+
+    sub2-5
+    Our Clients
+    Error 404
+    Coming Soon
+    Coming Soon – Style 02
+    Faq
+    Maintenance
+    Search Result
+    Pricing
+
+
+
+서브3---------------------------
+GRID – FULL WIDTH LAYOUTS
+Portfolio Grid Overlay
+Portfolio Grid With Icon
+Portfolio Grid Transform
+Portfolio Grid Zooming
+MASONRY – FULL WIDTH LAYOUTS
+Portfolio Masonry Overlay
+Portfolio Masonry With Icon
+METRO – FULL WIDTH LAYOUTS
+Portfolio Metro Overlay
+Portfolio Metro With Icon
+Portfolio Metro Transform
+Portfolio Metro Zooming
+OTHER – FULL WIDTH LAYOUTS
+Portfolio Image Gallery
+Portfolio Justified
+Portfolio Carousel
+Portfolio Parallax
+
+
+
+
+GRID – BOXED LAYOUTS
+Portfolio Grid Overlay
+Portfolio Grid With Icon
+Portfolio Grid Transform
+Portfolio Grid Zooming
+MASONRY – BOXED LAYOUTS
+Portfolio Masonry Overlay
+Portfolio Masonry With Icon
+METRO – BOXED LAYOUTS
+Portfolio Metro Overlay
+Portfolio Metro With Icon
+Portfolio Metro Transform
+Portfolio Metro Zooming
+OTHER – BOXED LAYOUTS
+Portfolio Image Gallery
+Portfolio Justified
+Portfolio Carousel
+Portfolio Parallax
+
+
+SINGLE PROJECT PAGE
+Single Project Page 01
+Single Project Page 02
+Single Project Page 03
+Single Project Page 04
+Single Project Page 05
+Single Project Page 06
+Single Project Page 07
+Single Project Page 08
+PORTFOLIO COLUMNS
+Portfolio Two Columns
+Portfolio Three Columns
+Portfolio Four Columns
+Portfolio Five Columns
+
+
+이미지
+
+
+sub4---------------------------------
+Blog Standard
+Blog Classic
+Blog List
+Blog Grid
+Blog Masonary
+Blog Simple
+Blog Clean
+Blog Images
+Blog Only Text
+Post Layout
+Post Type
+
+sub-sub 
+
+    sub4-1 ---------------------------
+    Blog Standard – Full Width
+    Blog Standard With Left Sidebar
+    Blog Standard With Right Sidebar
+
+    sub4-2 ---------------------------
+    Blog Classic
+    Blog Classic – Full Width
+
+
+    sub4-3 ---------------------------
+    Blog List
+    Blog List – Full Width
+
+
+    sub4-4 ---------------------------
+    Blog Grid
+    Blog Grid – Full Width
+
+
+    sub4-5 ---------------------------
+    Blog Masonry
+    Blog Masonry – Full Width
+
+
+
+    sub4-6 ---------------------------
+    Blog Simple
+    Blog Simple – Full Width
+
+
+
+    sub4-7 ---------------------------
+    Blog Clean
+    Blog Clean – Full Width
+
+
+    sub4-8 ---------------------------
+    Blog Images
+    Blog Images – Full Width
+
+
+
+    sub4-9 ---------------------------
+    Blog Only Text
+    Blog Only Text – Full Width
+
+
+
+    sub4-10 ---------------------------
+    Blog Post Layout 01
+    Blog Post Layout 02
+    Blog Post Layout 03
+    Blog Post Layout 04
+    Blog Post Layout 05
+
+
+
+    sub4-11 ---------------------------
+    Standard Post
+    Gallery Post
+    Slider Post
+    Html5 Video Post
+    Youtube Video Post
+    Vimeo Video Post
+    Audio Post
+    Blockquote Post
+    Full Width Post
+
+
+sub5 ----------------------------------------
+GENERAL ELEMENTS
+Accordions
+Buttons
+Team
+Team Carousel
+Clients
+Client Carousel
+Subscribe
+Call To Action
+Tab
+Google Map
+Text Slider
+Contact Form
+Image Gallery
+
+INFOGRAPHICS / ICONS
+Process Bar
+Icon With Text
+Overline Icon Box
+Custom Icon With Text
+Counters
+Countdown
+Pie Charts
+Text Box
+Fancy Text Box
+
+INTERACTIVE ELEMENTS
+Testimonials
+Testimonials Carousel
+Video
+Interactive Banners
+Services
+Portfolio Slider
+Info Banner
+Rotate Box
+Process Step
+Blog Posts
+Instagram
+Parallax Scrolling
+
+TEXT & CONTAINERS
+Heading
+Dropcaps
+Columns
+Blockquote
+Highlights
+Message Box
+Social Icons
+Lists
+Separators
+Pricing Table
+
+
+sub6 ----------------------------------------
+HEADER STYLES
+Transparent Header
+White Header
+Dark Header
+Header With Push
+Center Navigation
+Center Logo
+Top Logo
+One Page Navigation
+Hamburger Menu
+Hamburger Menu Half
+Left Menu Classic
+Left Menu Modern
+
+
+FOOTER
+Footer Standard
+Footer Standard Dark
+Footer Classic
+Footer Classic Dark
+Footer Clean
+Footer Clean Dark
+Footer Modern
+Footer Modern Dark
+Footer Center Logo
+Footer Center Logo Dark
+Footer Strip
+Footer Strip Dark
+Footer Center Logo 02
+Footer Center Logo 02 Dark
+Footer Clean Modern Dark
+Footer Clean Modern
+
+
+PAGE TITLE
+Left Alignment
+Right Alignment
+Center Alignment
+Dark Style
+Big Typography
+Parallax Image Background
+Image After Breadcrumbs
+Gallery Background
+Background Video
+Mini Version
+
+
+GALLERY
+Single Image Lightbox
+Lightbox Gallery
+Zoom Gallery
+Metro Gallery
+Justified Gallery
+Popup With Form
+Modal Popup
+Open Youtube Video
+Open Vimeo Video
+Open Google Map
+
+
+
+
+
+패럴럭스 기능 구현
+스크롤이 아래로 내려가면 헤더가 위로 부드럽게 안보일때 까지 올라가고
+스크롤이 위로 올라가면 헤가가 아래로 부드럽게 내려온다. 메뉴선택가능한 상태로
+
+
+메인
+-섹션1
+width:100%
+height:100%
+메인슬라이드
+3개 이미지
+3초간격
+Full Screen 제작
+Drag & Drop 기능 구현
+타이머 제어
+일정시간 지나면 다시 플레이
+
+
+슬라이드 타이틀
+h3 font-size: 18px font-weight: 300
+h2 font-size: 70px font-weight: 700
+p a color: 232323 font-size: 12px font-weight: 500 width:180  height: 40
+
+
+
+
+
+-섹션2
+패딩 : 130px 0;
+배경 : #f7f7f7;
+
+
+
+
+-섹션3
+패딩 : 130px 0;
+배경 : #1c1c1c;
+
+
+
+
+
+-섹션4
+width:100%
+메뉴박스의 높이 180px;
+
+메뉴 
+color: #6f6f6f;
+font-size: 12px;
+font-weight: 600;
+패딩-bottom: 2px;
+장식 : 아래밑줄
+ 
+반응형 & 액티비티 애니메이션 갤러리 
+버튼 클릭에 따라 반응 애니메이션 구현되면서 이미지 재배치
+너비에 따라 반응
+4개
+3개
+2개
+1개
+
+
+
+
+-섹션5
+패딩 : 130px 0;
+배경 : #fff;
+
+
+
+-섹션6
+width:100%
+패딩 : 0;
+배경 : #fff;
+
+갤러리 이미지 여백 : 0 5px
+
+
+
+
+-섹션7
+width:100%
+패딩 : 130px 0;
+배경 : #fff;
+
+
+-섹션8
+width:100%
+높이 : 602.438px;
+배경 : #1c1c1c;
+
+-섹션9
+width:100%
+패딩 : 130px 0;
+배경 : #fff;
+
+
+-섹션10
+높이 : 160px
+배경 : #ff214f
+
+
+푸터
+배경 : #1c1c1c;
+
+
+
+
